@@ -1,8 +1,15 @@
 ### Hello everybody 👋
 
-I'm a guy that used to develop for money, now managing software projects (whatever that means...). Coding now became a hobby in order to understand what people are talking about in our industry.
+I'm a guy that used to develop for a salary, now managing software projects (whatever that means...). Coding now became a hobby in order to understand what people are talking about in our industry.
 
-Things I play around with currently:
+My fact sheet:
+
+* Till Gartner from Munich/Germany/Europe/Planet Earth 🌍
+* Board Member at [mgm technology partners](https://www.mgm-tp.com) (a great software company that is always [looking for smart people](https://www.mgm-tp.com/en/jobs/)). Currently dealing with projects that are based on our [A12 Platform](https://a12.mgm-tp.com/index_en.html)
+* Father, speaking German, French and English. Studied Math at the [TUM](https://www.tum.de/en/)
+
+
+Things & technologies I play around with currently:
 
 * [Ansible](https://www.ansible.com), because at [mgm technology partners](https://www.mgm-tp.com) I work with a team that is in charge of Build & Deployment of [A12 Applications](https://a12.mgm-tp.com).
 * [Docker](https://www.docker.com), actually more `docker-compose`, as a service on it's own usually feels lonely...
