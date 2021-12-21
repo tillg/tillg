@@ -1,4 +1,21 @@
-### Hi there 👋
+### Hello everybody 👋
+
+I'm a guy that used to develop for money, now managing software projects (whatever that means...). Coding now became a hobby in order to understand what people are talking about in our industry.
+
+Things I play around with currently:
+
+* [Ansible](https://www.ansible.com), because at [mgm technology partners](https://www.mgm-tp.com) I work with a team that is in charge of Build & Deployment of [A12 Applications](https://a12.mgm-tp.com).
+* [Docker](https://www.docker.com), actually more `docker-compose`, as a service on it's own usually feels lonely...
+* [Ghost](https://ghost.org) because I run a little personal blog (check out the recipies 😜). And of course I [set up all this with Ansible and Docker](https://github.com/tillg/ghost.docker.compose)...
+* [Nginx](https://www.nginx.com) because you need it in almost every setup. Also I wanted to have parts of my website non-public and therefore started investigating [how to have password protected content with Nginx](https://github.com/tillg/nginx_with_logins).
+* [NodeJS](https://nodejs.org/en/) because I wanted to learn JavaScript & TypeScript.
+
+## Connect with me
+
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tillgartner/) 
+
+[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/tillg)
+<br>
 
 <!--
 **tillg/tillg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
